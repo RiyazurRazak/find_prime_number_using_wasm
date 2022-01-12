@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 20px;
+}
+.title {
+  color: blueviolet;
+}
+.btn-container {
+  margin: 10px 0;
+}
+.range-values {
+  display: flex;
+  justify-content: space-between;
+  color: blueviolet;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
+}
